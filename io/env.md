@@ -7,6 +7,7 @@ title_prefix: KorIO
 description: "Getting Environment variables, Properties, Operating System, user Language..."
 fa-icon: fa-sync-alt
 priority: 7
+version_review: 6.0.0
 ---
 
 KorIO has some tools for accessing the environment.

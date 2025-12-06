@@ -7,6 +7,7 @@ title_prefix: KorIO
 description: "Convert ByteArray from/to String with Charsets: LATIN1, UTF8, UTF16..."
 fa-icon: fa-language
 priority: 4
+version_review: 6.0.0
 ---
 
 KorIO has utilities for handling different charsets.

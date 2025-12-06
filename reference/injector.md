@@ -7,6 +7,7 @@ fa-icon: fa-puzzle-piece
 priority: 970
 artifact: 'com.soywiz.korge:korge-foundation'
 package: korlibs.inject
+version_review: 6.0.0
 ---
 
 Portable Kotlin Common package to do dependency injection.

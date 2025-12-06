@@ -7,6 +7,7 @@ title_short: File System
 description: "PathInfo, VfsFile, Vfs, IsoVfs, JailVfs, LocalVfs, LogVfs, MemoryVfs, MergedVfs, MountableVfs, NodeVfs, UrlVfs, ZipVfs"
 fa-icon: fa-copy
 priority: 1
+version_review: 6.0.0
 ---
 
 KorIO has a Virtual File System functionality.

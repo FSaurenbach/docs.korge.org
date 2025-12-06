@@ -5,6 +5,7 @@ layout: default
 title: FAQ
 fa-icon: fa-question-circle
 priority: 2000
+version_review: 6.0.0
 ---
 
 ## Are these libraries free?

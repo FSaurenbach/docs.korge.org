@@ -6,7 +6,7 @@ title: "Hot Reloading"
 title_prefix: KorGE
 fa-icon: fa-fire
 priority: 901
-version_review: 5.1.0
+version_review: 6.0.0
 ---
 
 KorGE supports Hot Reloading / Auto Reloading on the JVM target.

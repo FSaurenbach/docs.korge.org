@@ -7,6 +7,7 @@ title_prefix: KorMA
 description: "VectorPath, VectorBuilder, Shape2d, Shape2d union, difference, Triangulation, Vector Collision, Bezier..."
 fa-icon: fa-bezier-curve
 priority: 10
+version_review: 6.0.0
 ---
 
 KorMA provide several vectorial capabilities to generate all kind of vectorial shapes formed from lines, polygons and curves.

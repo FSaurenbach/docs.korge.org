@@ -6,6 +6,7 @@ title: "Tips & Samples"
 title_short: Tips & Samples
 fa-icon: fa-chalkboard-teacher 
 priority: 20
+version_review: 6.0.0
 ---
 
 ## Showcases

@@ -7,6 +7,7 @@ title_prefix: KorIO
 description: "Escaping, Quoting, Base64, Hex, CType..."
 fa-icon: fa-hashtag
 priority: 5
+version_review: 6.0.0
 ---
 
 KorIO has utilities for handling different encodings.

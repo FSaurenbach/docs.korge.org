@@ -7,6 +7,7 @@ title_short: Maps
 description: "FastMap, IntMap, IntIntMap, IntFloatMap, CacheMap, CaseInsensitiveStringMap, WeakMap, MapList extensions..."
 fa-icon: fa-sitemap
 priority: 40
+version_review: 6.0.0
 ---
 
 ## FastMap: `FastIntMap`, `FastStringMap`

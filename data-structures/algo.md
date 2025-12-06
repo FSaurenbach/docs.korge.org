@@ -7,6 +7,7 @@ title_short: Algorithms
 description: "genericBinarySearch, genericSort, mapWhile, getCyclic"
 fa-icon: fa-hat-wizard
 priority: 10
+version_review: 6.0.0
 ---
 
 ## binarySearch: `genericBinarySearch`, `binarySearch`

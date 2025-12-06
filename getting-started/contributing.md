@@ -7,6 +7,7 @@ title_short: Contributing
 description: How to contribute to KorGE?
 priority: 30
 fa-icon: fa-code-merge
+version_review: 6.0.0
 ---
 
 KorGE is an OpenSource Game Engine. It is open to everyone to contribute. There are several ways from doing so: from [contributing to the documentation](https://github.com/korlibs/docs.korge.org) (using git & Obsidian), to [contribute with the engine itself](https://github.com/korlibs/korge), or to create tutorials, [assets, libraries](https://store.korge.org/), examples, or helping people on the [forums](https://forum.korge.org/) or [discord](https://discord.korge.org/).

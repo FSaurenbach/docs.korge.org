@@ -7,6 +7,7 @@ title_short: Colors
 description: KorIM support several color formats, packed inline classes and conversion between them as well as mixing, de/premultiplication and other optimized operations.
 fa-icon: fa-palette
 priority: 10
+version_review: 6.0.0
 ---
 ## ColorFormat
 

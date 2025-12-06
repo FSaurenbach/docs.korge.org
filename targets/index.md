@@ -7,7 +7,7 @@ title_prefix: KorGE & Gradle Plugin
 children: /korge/deployment/
 fa-icon: fa-mobile
 priority: 0
-version_review: 5.2.0
+version_review: 6.0.0
 ---
 
 KorGE supports several desktop, web, and mobile targets.

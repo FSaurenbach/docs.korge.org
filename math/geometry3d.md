@@ -7,6 +7,7 @@ title_short: Geometry 3D
 description: "KorMA provides some geometry utilities: Vector3D, Matrix3D, AABB3D, Ray3D, EulerRotation, Quaternion, BVH3D..."
 fa-icon: fa-shapes
 priority: 3
+version_review: 6.0.0
 ---
 
 

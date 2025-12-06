@@ -5,6 +5,7 @@ layout: default
 title: "KProject"
 fa-icon: fa-file-archive
 priority: 70
+version_review: 6.0.0
 ---
 
 

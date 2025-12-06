@@ -7,6 +7,7 @@ title_short: Spans
 description: "TimeSpan, MonthSpan, DateTimeSpan, DateTimeRange..."
 fa-icon: fa-hourglass-half
 priority: 30
+version_review: 6.0.0
 ---
 
 Klock has utilities for representing spans of time, dates, and months.

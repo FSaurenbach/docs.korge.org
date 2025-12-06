@@ -7,6 +7,7 @@ title_short: Functions
 description: KorTE include some basic functions by default.
 fa-icon: fas fa-redo
 priority: 30
+version_review: 6.0.0
 ---
 
 {% raw %}

@@ -7,6 +7,7 @@ fa-icon: fa-headphones
 priority: 70
 artifact: 'com.soywiz.korge:korge-core'
 package: korlibs.audio
+version_review: 6.0.0
 ---
 
 <img alt="KorAU" src="/i/logos/korau.svg" width="128" height="128" style="float: left;margin-right:1em;" />

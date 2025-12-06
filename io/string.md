@@ -7,6 +7,7 @@ title_prefix: KorIO
 description: "UUID, Indenter, StrReader, Number parsing and stringifying tools, String extensions"
 fa-icon: fa-text-width
 priority: 11
+version_review: 6.0.0
 ---
 
 KorIO has utilities for handling texts.

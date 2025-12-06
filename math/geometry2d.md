@@ -7,6 +7,7 @@ title_short: Geometry 2D
 description: "KorMA provides some geometry utilities: Point, Matrix, Ray, PointArrayList, Rectangle, Size, Anchor, Orientation, ScaleMode, BoundsBuilder, BVH, BVH2D..."
 fa-icon: fa-shapes
 priority: 2
+version_review: 6.0.0
 ---
 
 ## Point and Matrix

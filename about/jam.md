@@ -8,6 +8,7 @@ fa-icon: fas fa-trophy
 entryclass: entry-starred
 priority: 99
 disabled: true
+version_review: 6.0.0
 ---
 
 ## 3rd Game Jam

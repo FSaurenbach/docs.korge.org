@@ -6,6 +6,7 @@ title: "Preferences"
 title_prefix: KorGE
 fa-icon: fa-save
 priority: 300
+version_review: 6.0.0
 ---
 
 To have persistent preferences/settings that are persisted between game calls, similar to android's `SharedPreferences`,

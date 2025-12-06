@@ -6,7 +6,7 @@ title: Desktop (JVM)
 title_short: Desktop
 fa-icon: fa-laptop
 priority: 10
-version_review: 5.2.0
+version_review: 6.0.0
 ---
 
 It supports **Java 17** and greater, ideally 21 or greater. This should be the preferred target while developing.

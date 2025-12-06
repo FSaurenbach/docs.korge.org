@@ -7,6 +7,7 @@ title_prefix: KorIO
 description: "Compression (zlib, deflate, lzma, zip) and checksum tools (adler32, crc32)"
 fa-icon: fa-file-archive
 priority: 6
+version_review: 6.0.0
 ---
 
 KorIO has some compression and checksum tools.

@@ -8,6 +8,7 @@ fa-icon: far fa-file-code
 priority: 0
 artifact: 'com.soywiz.korge:korge-core'
 package: korlibs.template
+version_review: 6.0.0
 ---
 
 <img alt="KorTE" src="/i/logos/korte.svg" width="128" height="128" style="float: left;" />

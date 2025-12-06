@@ -6,6 +6,7 @@ title: Atlas
 title_prefix: KorGE
 fa-icon: fas fa-map
 priority: 35
+version_review: 6.0.0
 ---
 
 ## Overview

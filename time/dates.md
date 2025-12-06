@@ -7,6 +7,7 @@ title_short: Dates
 description: "DateTime, Date, DayOfWeek, Month, Year, YearMonth, TimeZone..."
 fa-icon: fa-calendar-alt
 priority: 20
+version_review: 6.0.0
 ---
 
 To represent instants with date and time information, there are two classes: `DateTime` and `DateTimeTz`.

@@ -8,6 +8,7 @@ fa-icon: fa-clock
 priority: 0
 artifact: 'com.soywiz.korge:korge-foundation'
 package: korlibs.time
+version_review: 6.0.0
 ---
 
 Klock is a Date & Time library for Multiplatform Kotlin.

@@ -7,6 +7,7 @@ title_short: Web
 fa-icon: fa-window-restore
 priority: 20
 #status: new
+version_review: 6.0.0
 ---
 
 This target allows you to publish applications and games on any website.

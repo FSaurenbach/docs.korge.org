@@ -7,6 +7,7 @@ title_short: "Bitmaps"
 description: KorIM support several Bitmap formats and operations.
 fa-icon: fa-image
 priority: 10
+version_review: 6.0.0
 ---
 ## Bitmap
 

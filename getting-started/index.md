@@ -8,7 +8,7 @@ description: KorGE Game Engine is a Kotlin Open Source modern Game Engine create
 children: /korge/
 priority: -1
 fa-icon: fa-gamepad
-version_review: 2024.1
+version_review: 6.0.0
 redirect_from:
   - /korge/gettingstarted/
   - /

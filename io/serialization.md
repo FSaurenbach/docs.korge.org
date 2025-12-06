@@ -9,6 +9,7 @@ fa-icon: fa-code
 priority: 9
 artifact: 'com.soywiz.korge:korge-core'
 package: korlibs.serialization
+version_review: 6.0.0
 ---
 
 KorIO has utilities for serializing and deserializing typical formats.

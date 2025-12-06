@@ -6,6 +6,7 @@ title: Template Extending
 title_short: Extending
 fa-icon: fa-puzzle-piece
 priority: 70
+version_review: 6.0.0
 ---
 
 It is possible to extend KorTE with new tags, functions and filters.

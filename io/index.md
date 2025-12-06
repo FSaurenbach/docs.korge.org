@@ -8,6 +8,7 @@ fa-icon: fa-copy
 priority: 0
 artifact: 'com.soywiz.korge:korge-core'
 package: korlibs.io
+version_review: 6.0.0
 ---
 
 <img alt="KorIO" src="/i/logos/korio.svg" width="128" height="128" style="float: left;" />

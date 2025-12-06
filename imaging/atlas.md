@@ -8,6 +8,7 @@ description: KorIM supports creating, loading and saving atlases.
 fa-icon: fa-atlas
 priority: 50
 status: new
+version_review: 6.0.0
 ---
 
 

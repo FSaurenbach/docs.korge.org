@@ -7,6 +7,7 @@ title_short: Delegates
 description: "Extra, Computed, WeakProperty"
 fa-icon: fa-swatchbook
 priority: 50
+version_review: 6.0.0
 ---
 
 ## Extra

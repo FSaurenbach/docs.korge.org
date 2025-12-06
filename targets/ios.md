@@ -7,6 +7,7 @@ title_prefix: KorGE Targets
 fa-icon: fa-mobile
 priority: 40
 #status: new
+version_review: 6.0.0
 ---
 
 The iOS target uses Kotlin/Native.

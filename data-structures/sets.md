@@ -7,6 +7,7 @@ title_short: Sets
 description: "IntSet, BitSet"
 fa-icon: fa-layer-group
 priority: 30
+version_review: 6.0.0
 ---
 
 ## IntSet

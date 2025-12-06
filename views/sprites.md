@@ -6,6 +6,7 @@ title: "Sprites"
 title_prefix: KorGE
 fa-icon: fas fa-walking
 priority: 30
+version_review: 6.0.0
 ---
 
 

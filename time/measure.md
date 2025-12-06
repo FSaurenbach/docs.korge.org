@@ -7,6 +7,7 @@ title_short: Measure
 description: "measureTime, measureTimeWithResult & PerformanceCounter"
 fa-icon: fa-ruler-horizontal
 priority: 40
+version_review: 6.0.0
 ---
 
 Klock has utilities for mesuring time.

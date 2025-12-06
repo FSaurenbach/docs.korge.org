@@ -6,6 +6,7 @@ layout: default
 title_prefix: KorGE Targets
 fa-icon: fa-mobile
 priority: 30
+version_review: 6.0.0
 ---
 The Android target uses the Kotlin JVM. It consumes and generates intermediate `.class` files,
 to end generating portable Android `APK`, or Android `AAR` packages

@@ -7,6 +7,7 @@ title_short: Bin Packing
 description: "KorMA provides some utilities for bin packing: Bin Packing, MaxRects..."
 fa-icon: fa-box
 priority: 10
+version_review: 6.0.0
 ---
 
 ## BinPacker
