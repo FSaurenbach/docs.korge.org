@@ -4,7 +4,7 @@ group: math
 layout: default
 title: Angle
 title_short: Angle
-version_review: 5.0.0
+version_review: 6.0.0
 description: "KorGE provides an Angle class to abstract from radians, degrees or ratios"
 fa-icon: fa-shapes
 priority: 1

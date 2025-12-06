@@ -5,6 +5,7 @@ layout: default
 title: Chess
 title_prefix: KorGE Tutorial
 priority: 200
+version_review: 6.0.0
 ---
 
 

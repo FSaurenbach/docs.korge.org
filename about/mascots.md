@@ -6,6 +6,7 @@ title: "KorGE Mascots"
 title_short: Mascots
 fa-icon: fa-paw
 priority: 2
+version_review: 6.0.0
 ---
 
 Meet the KorGE Mascots: KORal, GEst & Jitto!

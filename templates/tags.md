@@ -6,6 +6,7 @@ title: Template Tags
 title_short: Tags
 fa-icon: fas fa-tags
 priority: 20
+version_review: 6.0.0
 ---
 
 KorTE include some basic tags by default.

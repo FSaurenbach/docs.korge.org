@@ -8,6 +8,7 @@ description: KorIM support creating, rendering, and measuring TTF Vector fonts a
 fa-icon: fa-font
 priority: 40
 status: new
+version_review: 6.0.0
 ---
 
 ## Font

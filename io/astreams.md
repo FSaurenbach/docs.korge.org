@@ -7,6 +7,7 @@ title_prefix: KorIO
 description: "AsyncInputStream, AsyncOutputStream, AsyncStream..."
 fa-icon: fa-memory
 priority: 2
+version_review: 6.0.0
 ---
 
 KorIO has functionality to manipulate asynchronous streams of data.

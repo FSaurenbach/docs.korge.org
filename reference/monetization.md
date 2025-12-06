@@ -6,6 +6,7 @@ title: Monetization
 title_prefix: KorGE
 fa-icon: fa-dollar-sign
 priority: 100
+version_review: 6.0.0
 ---
 
 In order to monetize your game, KorGE provices some out of the box plugins to do so:

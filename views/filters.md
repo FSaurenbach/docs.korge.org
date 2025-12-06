@@ -7,6 +7,7 @@ title_short: Filters
 description: Views can have filters attached that change how the view and its children are displayed. 
 fa-icon: fa-adjust
 priority: 70
+version_review: 6.0.0
 ---
 
 {% include sample.html sample="FiltersScene" %}

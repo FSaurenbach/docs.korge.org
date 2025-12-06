@@ -6,6 +6,7 @@ title: Input
 title_prefix: KorGE
 fa-icon: fa-gamepad
 priority: 30
+version_review: 6.0.0
 ---
 ## Input State vs Events
 

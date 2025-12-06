@@ -6,7 +6,7 @@ title: Animating
 title_prefix: KorGE
 fa-icon: fa-play
 priority: 31
-version_review: 5.3.0
+version_review: 6.0.0
 ---
 
 ![](/i/animation.avif)

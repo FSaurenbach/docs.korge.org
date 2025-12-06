@@ -8,6 +8,7 @@ fa-icon: fa-image
 priority: 0
 artifact: 'com.soywiz.korge:korge-core'
 package: korlibs.image
+version_review: 6.0.0
 ---
 
 <img alt="KorIM" src="/i/logos/korim.svg" style="float:left;width:128px;height:128px;" />

@@ -6,6 +6,7 @@ title: Entry Point
 title_prefix: Reference
 fa-icon: fa-sort-alpha-down
 priority: 4
+version_review: 6.0.0
 ---
 
 KorGE has a `Stage` like AS3, Pixi and HTML DOM and a [display tree with `View` nodes](/views/).

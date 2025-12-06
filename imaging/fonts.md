@@ -6,6 +6,7 @@ title: "Fonts"
 title_prefix: KorGE
 fa-icon: fa-font
 priority: 70
+version_review: 6.0.0
 ---
 
 KorGE supports Device, Bitmap and TTF fonts on all the targets.

@@ -8,6 +8,7 @@ fa-icon: fa-calculator
 priority: 0
 artifact: 'com.soywiz.korge:korge-foundation'
 package: korlibs.math
+version_review: 6.0.0
 ---
 
 <img src="/i/logos/korma.svg" width="128" height="128" alt="KorMA" style="float:left; margin: 0 16px 16px 0;" />

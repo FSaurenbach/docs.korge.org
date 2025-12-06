@@ -7,7 +7,7 @@ title_short: Fixed Point
 description: Package for dealing with Big Numbers both integral and decimal
 fa-icon: fa-sort-numeric-up
 priority: 200
-version_review: 5.3.0
+version_review: 6.0.0
 ---
 ## Fixed Point Arithmetic
 

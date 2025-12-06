@@ -7,6 +7,7 @@ title_prefix: KorIO
 description: "Signals, Once, Atomic, ThreadLocal, AsyncCache, AsyncCloseable, AsyncByteArrayDeque, delay with Klock TimeSpan, runBlockingNoSuspensions..."
 fa-icon: fa-sync-alt
 priority: 3
+version_review: 6.0.0
 ---
 
 KorIO has extra asynchronous and threading utilities.

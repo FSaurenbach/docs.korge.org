@@ -8,6 +8,7 @@ fa-icon: fa-vial
 priority: 7500
 support_diagram: true
 #status: new
+version_review: 6.0.0
 ---
 
 KorGE provide mechanisms for testing views, scenes and suspending functions.

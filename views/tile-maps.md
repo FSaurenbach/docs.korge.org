@@ -7,7 +7,7 @@ title_prefix: KorGE
 fa-icon: fa-map
 priority: 100
 status: incomplete
-version_review: 5.3.0
+version_review: 6.0.0
 ---
 KorGE supports TileMaps and TileSets. This feature supports drawing a matrix with a lot of similar elements in equidistant positions in a grid, including rendering only the elements visible in the screen.
 It can be used standalone or via [Tiled](https://docs.korge.org/store_proxy/?url=/module/korge-tiled/), [LDtk](https://docs.korge.org/store_proxy/?url=/module/korge-ldtk/#) or other tile engines implemented in KorGE.

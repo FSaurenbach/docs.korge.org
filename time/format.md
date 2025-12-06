@@ -7,6 +7,7 @@ title_short: Format
 description: "Formatting, parsing and localization"
 fa-icon: fa-globe
 priority: 60
+version_review: 6.0.0
 ---
 
 Klock has utilities for formatting, parsing and localizing dates and times.

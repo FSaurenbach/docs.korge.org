@@ -8,7 +8,7 @@ description: KorGE Forge is the IDE for KorGE
 children: /korge/
 priority: 10
 fa-icon: fa-gamepad
-version_review: 2024.1
+version_review: 6.0.0
 ---
 
 {% include youtube.html video_id="R30yistp-jw" %}

@@ -6,6 +6,7 @@ title: Multiplatform Library Integrations
 title_prefix: KorGE
 fa-icon: fa-cubes
 priority: 100
+version_review: 6.0.0
 ---
 Kotlin and KorGE support multiple targets. Each target might use different per-platform or native libraries for each platform. In order to unify that functionality into a common API, Kotlin provides a `expect` & `actual` mechanism. It is possible to either use Kotlin Multiplatform libraries that do this for you, or by also using functionality from the store doing this, or by doing it ourselves for a specific functionality.
 

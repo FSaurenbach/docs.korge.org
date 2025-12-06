@@ -7,6 +7,7 @@ title_short: Math Utils
 description: "Clamping, interpolation and easing"
 fa-icon: fa-less-than-equal
 priority: 10
+version_review: 6.0.0
 ---
 
 KorMA provides some mathematical utilities.

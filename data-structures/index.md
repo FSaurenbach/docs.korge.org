@@ -11,6 +11,7 @@ artifact: com.soywiz.korge:korge-foundation
 package: korlibs.datastructure
 redirect_from:
   - /kds/
+version_review: 6.0.0
 ---
 
 <img src="/i/logos/kds.svg" width="196" height="196" style="float: left;margin: 0 16px 16px 0;" alt="KDS: Data Structures" />

@@ -7,6 +7,7 @@ title_short: Filters
 description: KorTE include some basic filters by default.
 fa-icon: fas fa-filter
 priority: 50
+version_review: 6.0.0
 ---
 
 {% raw %}

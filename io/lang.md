@@ -7,6 +7,7 @@ title_prefix: KorIO
 description: "Reflection utilities, Delegates, KDynamic (dynamic access), Array Tools..."
 fa-icon: fa-dna
 priority: 8
+version_review: 6.0.0
 ---
 
 KorIO has some general language tools to make life easier.

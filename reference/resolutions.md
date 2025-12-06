@@ -6,6 +6,7 @@ title: Resolutions
 title_prefix: KorGE
 fa-icon: fas fa-expand-arrows-alt
 priority: 35
+version_review: 6.0.0
 ---
 
 

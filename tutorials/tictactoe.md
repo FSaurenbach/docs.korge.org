@@ -5,6 +5,7 @@ layout: default
 title: Tic-tac-toe
 title_prefix: KorGE Tutorial
 priority: 1200
+version_review: 6.0.0
 ---
 
 ### English

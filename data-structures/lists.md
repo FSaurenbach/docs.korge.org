@@ -7,6 +7,7 @@ title_short: Lists
 description: "ArrayList, FastArrayList, Array2, Deque, Pool, PriorityQueue, Queue, Stack, ListReader..."
 fa-icon: fa-ellipsis-h
 priority: 20
+version_review: 6.0.0
 ---
 
 ## ArrayList: `IntArrayList`, `FloatArrayList` and `DoubleArrayList`

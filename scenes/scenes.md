@@ -6,6 +6,7 @@ title: Scenes
 title_prefix: KorGE
 fa-icon: fa-images
 priority: 20
+version_review: 6.0.0
 ---
 
 While you can create a small application in a few lines, when the application grows in size,

@@ -6,6 +6,7 @@ title: "Game Window"
 title_prefix: KorGE
 fa-icon: far fa-window-maximize
 priority: 300
+version_review: 6.0.0
 ---
 
 ## DialogInterface

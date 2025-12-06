@@ -5,6 +5,7 @@ layout: default
 title: Infrastructure
 fa-icon: fa-question-circle
 priority: 2000
+version_review: 6.0.0
 ---
 
 ## Infrastructure, Deployment and Publishing

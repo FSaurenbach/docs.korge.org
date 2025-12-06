@@ -7,6 +7,7 @@ fa-icon: fa-bell
 priority: 60
 artifact: 'com.soywiz.korge:korge-foundation'
 package: korlibs.logger
+version_review: 6.0.0
 ---
 
 This module provides a simple interface to do logging into suitable outputs like javascript's console or stdout/stderr.

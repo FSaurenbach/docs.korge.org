@@ -6,6 +6,7 @@ title: Resources
 title_prefix: KorGE
 fa-icon: fa-archive
 priority: 10
+version_review: 6.0.0
 ---
 
 KorGE uses the [Virtual File Systems from Korio](/io) to load resources from different sources,

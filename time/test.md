@@ -7,6 +7,7 @@ title_short: Testing
 description: "TimeProvider and testing"
 fa-icon: fa-vial
 priority: 70
+version_review: 6.0.0
 ---
 
 Klock has utilities for providing time and there are some integrations for testing.

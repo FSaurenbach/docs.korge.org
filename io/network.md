@@ -7,6 +7,7 @@ title_prefix: KorIO
 description: "TCP sockets, HTTP and WebSocket client and server, URL, QueryString, MimeType utils..."
 fa-icon: fa-network-wired
 priority: 10
+version_review: 6.0.0
 ---
 
 KorIO has utilities for handling network.

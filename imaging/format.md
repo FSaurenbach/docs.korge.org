@@ -7,6 +7,7 @@ title_short: Image Formats
 description: KorIM supports creating, loading and saving different image formats.
 fa-icon: fa-file-image
 priority: 40
+version_review: 6.0.0
 ---
 
 

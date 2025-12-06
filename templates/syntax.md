@@ -7,6 +7,7 @@ title_short: Syntax
 description: Ths syntax of KorTE is similar to liquid and other template engines.
 fa-icon: fas fa-code
 priority: 10
+version_review: 6.0.0
 ---
 
 {% raw %}

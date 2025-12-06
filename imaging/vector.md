@@ -8,6 +8,7 @@ description: KorIM support vector rendering by the `Context2d` class. This class
 fa-icon: fa-bezier-curve
 priority: 35
 status: new
+version_review: 6.0.0
 ---
 
 ## Context2d

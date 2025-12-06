@@ -5,6 +5,7 @@ layout: default
 title: "Crypto"
 fa-icon: fa-lock
 priority: 950
+version_review: 6.0.0
 ---
 
 Krypto is a cryptography library for Multiplatform Kotlin.

@@ -7,6 +7,7 @@ title_prefix: KorIO
 description: "SyncInputStream, SyncOutputStream, SyncStream, FastByteArrayInputStream..."
 fa-icon: fa-memory
 priority: 1
+version_review: 6.0.0
 ---
 
 KorIO has functionality to manipulate synchronous streams of data.

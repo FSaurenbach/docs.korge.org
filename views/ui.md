@@ -6,6 +6,7 @@ title: "UI"
 title_prefix: KorGE
 fa-icon: fas fa-toggle-on
 priority: 6000
+version_review: 6.0.0
 ---
 
 KorGE include some UI components, you can use out of the box.
